@@ -1,0 +1,91 @@
+.tag{
+    color: rgb(75, 0, 130);
+}
+.heading{
+    background-color: rgb(55, 0, 255);
+}
+.sat{
+    background-color: violet;
+}
+.sun{
+    background-color: teal;
+}
+.mon{
+    background-color: tomato;
+}
+.tues{
+    background-color: yellowgreen;
+}
+.wed{
+    background-color: palevioletred;
+}
+.thurs{
+    background-color: purple;
+}
+.tname{
+    background-color: seagreen;
+}
+table{
+    text-align: center;
+    color: #ffffff;
+}
+.room{
+    background-color: sienna;
+}
+.room1{
+    background-color: rgb(0, 127, 0) ;
+}
+.room2{
+    background-color: rgb(219, 188, 15);
+}
+.room3{
+    background-color: springgreen;
+}
+.room4{
+    background-color: teal;
+}
+.room5{
+    background-color: violet;
+}
+.room6{
+    background-color: rgb(19, 81, 214);
+}
+.room7{
+    background-color: turquoise;
+}
+.room8{
+    background-color: rgb(255, 0, 0);
+}
+.room9{
+    background-color: rgb(7, 28, 7);
+}
+.room10{
+    background-color: turquoise;
+}
+.room11{
+    background-color: tomato;
+}
+.time{
+    background-color: teal;
+}
+.time2{
+    background-color: rgb(75, 0, 130);
+}
+.num{
+    background-color: rgba(202, 17, 88, 0.555);
+}
+.para{
+    background-color: rgb(215, 210, 219) ;
+    text-align: center;
+    color: rgb(67, 13, 109);
+    font-size: 18px;
+}
+h3{
+    color: red;
+}
+.footer{
+    background-color: turquoise;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
